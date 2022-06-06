@@ -1,3 +1,7 @@
+.center {
+text-align: center;
+}
+
 button{
     margin:0px 0px 40px 0px;
     font-size: 24px;
@@ -21,4 +25,11 @@ button{
 button:hover{
     background: #0066DB;
     color: #fff;
+}
+
+.copyright{
+
+font-size: 30px;
+font-family: "Roboto";
+
 }
